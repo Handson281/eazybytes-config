@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to easybank account related prod apis(git)"
   contactDetails:
     name: "Product owner"
-    email: "Product_owner@easybank.com"
+    email: "{cipher}997a449f706d6be43ca09ce4db997e51f1efd40a3e37c8f8ab1a1af61618af015c013d31a131079ee3270266fb188511"
   onCallSupport:
     - +916584873120
     - +917418529630
