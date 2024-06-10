@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to easybank account related local apis (files)"
+  contactDetails:
+    name: "John-Developer"
+    email: "john@easybank.com"
+  onCallSupport:
+      - +911234567890
+      - +910987654321

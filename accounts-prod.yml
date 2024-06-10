@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to easybank account related prod apis(File)"
+  contactDetails:
+    name: "Product owner"
+    email: "Product_owner@easybank.com"
+  onCallSupport:
+    - +916584873120
+    - +917418529630

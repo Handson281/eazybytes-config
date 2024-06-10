@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to easybank account related QA apis"
+  contactDetails:
+    name: "QA_Lead"
+    email: "QA_Lead@easybank.com"
+  onCallSupport:
+    - +917894561230
+    - +913215648970
