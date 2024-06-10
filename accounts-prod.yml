@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to easybank account related production apis(git)"
+  message: "Welcome to easybank account related production apis(git) updated"
   contactDetails:
     name: "Product owner"
     email: "{cipher}997a449f706d6be43ca09ce4db997e51f1efd40a3e37c8f8ab1a1af61618af015c013d31a131079ee3270266fb188511"
